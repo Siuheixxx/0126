@@ -11,7 +11,9 @@ svn subversion
 里程碑分支 tags v1.0.0 
 ### 测试种类
 回归测试，压力测试，性能测试，单元测试
+
 ### 命令
 git init
 git add .
 git commit -m "comment"
+### 命令
